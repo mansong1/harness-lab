@@ -52,7 +52,7 @@ This command starts the Harness server, exposes it on port 3000, and mounts nece
 3. Select **Create Project**.
 > [!NOTE]
 > Harness can also [import projects](https://docs.gitness.com/administration/project-management#import-a-project) from external sources (such as GitLab groups or GitHub organizations).
-4. You can organize your work in Harness by creating labels to categorize pull requests, artifacts, and more. To get started, add three labels to your project: "dev," "staging," and "prod." You can also assign specific values to each of these labels, helping to streamline project management and tracking.
+4. You can organize your work in Harness by creating labels to categorize pull requests, artifacts, and more. To get started, select **Settings**, then under **Labels** add three labels to your project: "dev," "staging," and "prod." You can also assign specific values to each of these labels, helping to streamline project management and tracking.
 
 ### Import a Repository
 
